@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dzjr3skhe/image/upload/v1694234935/ezgif.com-optimize_1_ejsjvr.gif"/>
+  <img src="https://res.cloudinary.com/dzjr3skhe/image/upload/v1694275585/m489eo9cf1101_pvkz0k.jpg"/>
 </p>
 
 <h2 align="center">Hello! I'm Alan 👋</h2>
