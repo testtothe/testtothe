@@ -4,6 +4,10 @@
 <p align="center">
   <em><a href="https://www.imdb.com/title/tt4158110/">Mr.Robot</a>  (2015).</em>
 </p>
+<h2 align="center">Hello! I'm Alan</h2>
+<p align="center">
+  A film enthusiast by heart, a coder by profession.
+</p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
