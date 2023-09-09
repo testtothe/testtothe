@@ -4,7 +4,7 @@
 
 <h2 align="center">Hello! I'm Alan 👋</h2>
 <p align="center">
-  🎬 Film enthusiast | 💻 Coder
+  💻 Software Engineer | 🎬 Film enthusiast 
 </p>
 <h3 align="center">🛠 My Skills</h3>
 <p align="center">
